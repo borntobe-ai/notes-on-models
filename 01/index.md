@@ -19,7 +19,7 @@ A llm model is trained in the following steps in general:
 
 Now let's look at the main code from the referenced repo:
 
-```
+```C
 /*
 This file trains the GPT-2 model.
 This version is the clean, minimal, reference. As such:
@@ -1195,5 +1195,4 @@ int main() {
     return 0;
 }
 #endif
-
 ```
