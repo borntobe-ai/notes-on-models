@@ -1,9 +1,3 @@
 theme: jekyll-theme-minimal
 title: Notes On Models
 description: Step-by-step guide to lead your way to AI projects
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    line_numbers: true
