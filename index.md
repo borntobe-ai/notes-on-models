@@ -11,9 +11,11 @@ Machine learning is the method for computers to model data, which means abstract
 The process of creating these models involves labeling massive data, then defining a structure for the machine to learn the potential mathematical functions that represents the data. This allows the model to predict the accurate output given a new input. The higher the accuracy of the prediction, the better the model's performance.
 
 [01 Always Code First](./01/index.md)
-[02 Fundamentals - Math Theory]
-[03 Fundamentals - Buzz Words]
-[04 Fundamentals - Transformers]
-[05 Applications of LLMs]
-[06 Another model MuZero]
-[07 Recommendation Model]
+[02 Fundamentals - Buzz Words](./02/index.md)
+[03 Fundamentals - Math Theory](./03/index.md)
+[04 Fundamentals - Transformers](./04/index.md)
+[05 LLM Applications](./05/index.md)
+[06 ML model MuZero](./06/index.md)
+[07 Recommendation Model](./07/index.md)
+[08 Build Your Own Application](./08/index.md)
+[09 Future of Machine Learning](./09/index.md)
