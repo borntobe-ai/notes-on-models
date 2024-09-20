@@ -17,7 +17,7 @@ A LLM model is trained in the following steps in general:
 
 [Karpathy's llm.c](https://github.com/karpathy/llm.c) is a simple implementation of a transformer model for language modeling. Karpathy has detailed explanations of the code and the math behind it. Here I will paste the [cpu implementation](https://github.com/karpathy/llm.c/blob/master/train_gpt2.c).
 
-```
+```c
 /*
 This file trains the GPT-2 model.
 This version is the clean, minimal, reference. As such:

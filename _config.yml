@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Notes On Models
 description: Step-by-step guide to lead your way to AI projects
+
+# Include custom styles
+sass:
+  load_paths:
+    - _sass
