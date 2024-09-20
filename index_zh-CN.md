@@ -12,7 +12,7 @@
 
 [01 代码先行](./01/index_zh-CN.md)
 
-[02 基础知识 - 流行术语](./02/index_zh-CN.md)
+[02 基础知识 - 术语](./02/index_zh-CN.md)
 
 [03 基础知识 - 数学理论](./03/index_zh-CN.md)
 
