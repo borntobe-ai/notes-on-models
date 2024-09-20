@@ -1,6 +1,6 @@
-[English](./index.md) | 简体中文
-
 # 代码先行
+
+[English](./index.md) | 简体中文
 
 大语言模型通常采用以下训练步骤：
 
@@ -17,7 +17,7 @@
 
 [Karpathy 的 llm.c](https://github.com/karpathy/llm.c) 是一个用于语言建模的 transformer 模型的简单实现。Karpathy 对代码和背后的数学原理进行了详细解释。这里我将粘贴 [CPU 实现](https://github.com/karpathy/llm.c/blob/master/train_gpt2.c)。
 
-```
+```c
 /*
 此文件用于训练 GPT-2 模型。
 这个版本是干净、简洁的参考版本。因此：
