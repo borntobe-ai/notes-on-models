@@ -1,6 +1,6 @@
-English | [简体中文](./index_zh-CN.md)
+# Code first
 
-# Always code first
+English | [简体中文](./index_zh-CN.md)
 
 A LLM model is trained in the following steps in general:
 

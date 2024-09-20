@@ -1,6 +1,6 @@
-[English](./index.md) | 简体中文
-
 # 代码先行
+
+[English](./index.md) | 简体中文
 
 大语言模型通常采用以下训练步骤：
 

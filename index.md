@@ -1,6 +1,6 @@
-English | [简体中文](./index_zh-CN.md)
-
 # The Basic Idea of Models
+
+English | [简体中文](./index_zh-CN.md)
 
 The physical world is complicated, but humans always find a way to abstract it.
 
@@ -10,7 +10,7 @@ Machine learning is the method for computers to model data, which means abstract
 
 The process of creating these models involves labeling massive data, then defining a structure for the machine to learn the potential mathematical functions that represents the data. This allows the model to predict the accurate output given a new input. The higher the accuracy of the prediction, the better the model's performance.
 
-[01 Always Code First](./01/index.md)
+[01 Code First](./01/index.md)
 [02 Fundamentals - Buzz Words](./02/index.md)
 [03 Fundamentals - Math Theory](./03/index.md)
 [04 Fundamentals - Transformers](./04/index.md)
