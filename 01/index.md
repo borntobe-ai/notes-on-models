@@ -12,7 +12,7 @@ A model is trained in the following steps in general:
 6. **Backward pass (Backpropagation)**: Compute the gradients of the loss with respect to each of the model's parameters (weights and biases) by applying the chain rule of calculus. This step propagates the error backward through the network.
 7. **Update weights**: Adjust the model's weights using an optimization algorithm (e.g., stochastic gradient descent, Adam) to minimize the loss. The optimizer updates the weights based on the computed gradients.
 8. **Iterate over the dataset**: Repeat the forward pass, loss calculation, backward pass, and weight updates for many iterations (epochs) over the dataset. This involves feeding the model with batches of data and continually refining the weights.c
-9. **Iterate over the dataset**: Repeat the forward pass, loss calculation, backward pass, and weight updates for many iterations (epochs) over the dataset. This involves feeding the model with batches of data and continually refining the weights.
+9. **Validation and fine-tuning**: Periodically evaluate the model's performance on a separate validation dataset, monitoring its performance to avoid overfitting. Fine-tune hyperparameters and make necessary adjustments.
 10. **Model ready**: Once the training converges and the model performs well on both training and validation datasets, it is considered ready for deployment. Optionally, the model can undergo further fine-tuning on specific tasks or datasets.
 
 Here is the data:
