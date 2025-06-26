@@ -12,11 +12,11 @@ The process of creating these models involves labeling massive data, then defini
 
 [01 Code First](./01/index.md)
 
-[02 Fundamentals - Buzz Words](./02/index.md)
+[02 Buzz Words](./02/index.md)
 
-[03 Fundamentals - Math Theory](./03/index.md)
+[03 Math Theory](./03/index.md)
 
-[04 Fundamentals - Transformers](./04/index.md)
+[04 Transformers](./04/index.md)
 
 [05 LLM Applications](./05/index.md)
 
