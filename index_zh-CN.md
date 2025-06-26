@@ -12,11 +12,11 @@
 
 [01 代码先行](./01/index_zh-CN.md)
 
-[02 基础知识 - 常见术语](./02/index_zh-CN.md)
+[02 常见术语](./02/index_zh-CN.md)
 
-[03 基础知识 - 数学理论](./03/index_zh-CN.md)
+[03 数学理论](./03/index_zh-CN.md)
 
-[04 基础知识 - Transformer](./04/index_zh-CN.md)
+[04 Transformer](./04/index_zh-CN.md)
 
 [05 大语言模型应用](./05/index_zh-CN.md)
 
