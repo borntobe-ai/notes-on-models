@@ -16,7 +16,7 @@ The process of creating these models involves labeling massive data, then defini
 
 [03 Math Theory](./03/index.md)
 
-[04 Transformers](./04/index.md)
+[04 Transformer](./04/index.md)
 
 [05 LLM Applications](./05/index.md)
 
