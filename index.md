@@ -20,7 +20,7 @@ The process of creating these models involves labeling massive data, then defini
 
 [05 LLM Applications](./05/index.md)
 
-[06 ML model MuZero](./06/index.md)
+[06 Reinforcement Learning](./06/index.md)
 
 [07 Recommendation Model](./07/index.md)
 
