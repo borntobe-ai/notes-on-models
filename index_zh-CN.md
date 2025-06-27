@@ -20,7 +20,7 @@
 
 [05 大语言模型应用](./05/index_zh-CN.md)
 
-[06 机器学习模型 MuZero](./06/index_zh-CN.md)
+[06 强化学习](./06/index_zh-CN.md)
 
 [07 推荐模型](./07/index_zh-CN.md)
 
