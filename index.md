@@ -27,3 +27,5 @@ The process of creating these models involves labeling massive data, then defini
 [08 Build Your Own Application](./08/index.md)
 
 [09 Future of Machine Learning](./09/index.md)
+
+[10 Build Your Taste](./10/index.md)
